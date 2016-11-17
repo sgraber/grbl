@@ -3,7 +3,7 @@
 
 ***
 
-Fork modified to work with the LittleRP Resin Printer:  http://www.littlerp.com/ 
+***Fork modified to work with the LittleRP Resin Printer:  http://www.littlerp.com/***
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328. 
 
